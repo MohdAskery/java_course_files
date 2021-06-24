@@ -2,6 +2,8 @@ public class Tut_28 {
     public static void main(String[] args) {
         int [][] std={{1,2,3},{1,2,3},{1,2,3}};
 
+        // #MOhd Askery
+
         // std[0][0]=101;
         // std[0][1]=102;
         // std[0][2]=103;
